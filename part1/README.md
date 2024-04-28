@@ -1,0 +1,1 @@
+Spring application for Java Lab 3 - Spring Data JPA and MySQL
